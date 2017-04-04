@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/tweezer_3.png
 title: Molecular Tweezers of a Force-Dependent Transcription Activator
-permalink: projects/micromouse
+permalink: projects/tweezers
 date: 2010-2013
 labels:
   - Molecular Tweezers
@@ -13,10 +13,9 @@ summary: I characterized the structure and unusal unfolding mechanism of a bacte
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/tweezer_1.png">
+  <img class="ui image" src="../images/tweezer_2.png">
+  <img class="ui image" src="../images/tweezer_3.png">
 </div>
 
 During the 2011-2012 school year, I wrote my honors undergraduate thesis in Professor Dave Wemmer's Laboratory at University of California, Berkeley. I performed a molecular tweezers experiment on the transcription initiation protein, σ54, to determine the number of unfolding events in an attempt to better understand the mechanism behind σ54 transcription initiation.
