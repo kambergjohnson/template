@@ -18,16 +18,8 @@ summary: I characterized the structure and unusal unfolding mechanism of a bacte
   <img class="ui image" src="../images/tweezer_3.png">
 </div>
 
-During the 2011-2012 school year, I wrote my honors undergraduate thesis in Professor Dave Wemmer's Laboratory at University of California, Berkeley. I performed a molecular tweezers experiment on the transcription initiation protein, σ54, to determine the number of unfolding events in an attempt to better understand the mechanism behind σ54 transcription initiation.
+Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-In bacteria, σ factors regulate cellular transcription. They must associate with RNA Polymerase (RNAP) to form the σ-RNAP holoenzyme that then can melt double-stranded DNA and initiate transcription. Most σ factors are part of the σ70 class that can immediately initiate transcription after association with RNA Polymerase. σ54, however, requires activation by an AAA+ ATPase activator protein that remodels the σ54-RNAP complex into an open, active conformation [1].
+For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Activation of σ54 may work through a simple bind-and-release by the AAA+ ATPase activator. Alternatively, the ATPase may perform multiple rounds to ATP hydrolysis to exert a "tugging" force on σ54. The latter hypothesis is supported by evidence of a fracture point between the two subdomains of the core binding domain of σ54 [2]. My project aimed to mimic the proposed tugging by the ATPase activator to observe the number of protein unfolding events of the core binding domain. 
-
-We found that approximately 20% of the core-binding domain of σ54 unfolds before the rest of the domain during force-extension cycles with the molecular tweezers. This uncooperative unfolding is highly unsual for single proteins domains and supports the hypothesis that the activator may pull on σ54 to generate a partially unfolded intermediate that allows for transcription. 
-
-You can learn more at the [Wemmer Lab Website] (http://www.cchem.berkeley.edu/wemmer/home.html).
-
-1. Wedel, A., Kustu, S. (1995). The bacterial enhancer-binding protein NTRC is a molecular machine: ATP hydrolysis is coupled to transcriptional activation. Genes Dev. 9, 2042-2052.
-
-2. Hong, E., Doucleff, M., Wemmer, D.E. (2009). Structure of the RNA polymerase core-binding domain of sigma54 reveals a likely conformational fracture point. Journal of molecular biology. 390, 70-82.
+You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
