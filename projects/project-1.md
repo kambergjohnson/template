@@ -29,7 +29,4 @@ We found that approximately 20% of the core-binding domain of σ54 unfolds befor
 
 You can learn more at the [Wemmer Lab Website] (http://www.cchem.berkeley.edu/wemmer/home.html).
 
-1. Wedel, A., Kustu, S. (1995). The bacterial enhancer-binding protein NTRC is a molecular machine: ATP hydrolysis is coupled to transcriptional activation. Genes Dev. 9, 2042-2052.
-
-2. Hong, E., Doucleff, M., Wemmer, D.E. (2009). Structure of the RNA polymerase core-binding domain of sigma54 reveals a likely conformational fracture point. Journal of molecular biology. 390, 70-82.
 
