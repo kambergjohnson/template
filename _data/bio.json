@@ -1,91 +1,88 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
-    "location": {
+    "name": "Katherine Amberg-Johnson",
+    "label": "Ph.D Student",
+    "picture": "https://techfolios.github.io/template/images/DSC_5208.jpeg",
+    "email": "katieambergjohnson@gmail.com",
+    "phone": "1-808-428-9703",
+    "website": "https://kambergjohnson.github.io",
+    "summary": "I am a graduate student at Stanford University studying antimalarial drug targets and cellular effects.": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "94122",
+      "city": "San Francisco",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kambergjohnson",
+        "url": "http://github.com/kambergjohnson"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "katherine-amberg-johnson",
+        "url": "https://www.linkedin.com/in/katherine-amberg-johnson-64496a5a/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "katiemermaid",
+        "url": "https://twitter.com/katiemermaid"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "katieambergjohnson",
+        "url": "https://www.instagram.com/katieambergjohnson/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Microbiology",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Malaria",
+        "Toxoplasma",
       ]
     },
     {
-      "name": "data mining",
+      "name": "Drug Screening",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Target Identification",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "",
+        "",
+        ""
+    
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "Stanford University",
+      "area": "Microbiology and Immunology (expected Spring, 2018)",
+      "studyType": "Ph.D",
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
