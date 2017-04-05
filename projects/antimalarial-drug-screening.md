@@ -4,7 +4,7 @@ type: project
 image: images/bio-x.png
 title: Antimalarial drug screening and optimization
 permalink: projects/antimalarial-drug-screening
-date: 2016
+date: 2015
 labels:
   - Plasmodium falciparum
   - Chemical inhibition

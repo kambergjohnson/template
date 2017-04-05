@@ -4,7 +4,7 @@ type: project
 image: images/target-identification-2-square.jpg
 title: Antimalarial novel drug target identification
 permalink: projects/antimalaria-target-identification
-date: 2015
+date: 2016
 labels:
   - Toxoplasma gondii
   - Target identification
