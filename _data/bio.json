@@ -139,21 +139,40 @@
     {
       "name": "A first-in-class inhibitor of parasite FtsH disrupts plastid biogenesis in human pathogens",
       "type": "article",
-      "author": "Amberg-Johnson, K., Ganesan, S.M., Lorenzi, H.A., Niles, J.C., Yeh",
+      "author": "K. Amberg-Johnson, S. Ganesan, H. Lorenzi, J. Niles, E. Yeh",
       "publisher": "Nature Chem Bio (in submission)",
-      "releaseDate": "",
+      "releaseDate": "June, 2017",
       "website": "",
       "summary": ""
     },
     {
       "name": "Use of molecular tweezers to study the effect of applied force on σ54 Core-Binding Domain",
       "type": "article",
-      "author": "Amberg-Johnson, K.",
+      "author": "K. Amberg-Johnson",
       "publisher": "Undergraduate Honors Thesis, UC Berkeley",
-      "releaseDate": "",
-      "website": "",
+      "releaseDate": "June, 2013",
+      "website": "http://kambergjohnson.github.io/resources/thesis.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Structural Characterization of σ54 Core-Binding Domain Truncation (abstract)",
+      "type": "article",
+      "author": "K. Amberg-Johnson, A. Siegel, D. Wemmer",
+      "publisher": "Amgen Scholars Summer Research Program",
+      "releaseDate": "August, 2012",
+      "website": "http://kambergjohnson.github.io/resources/amgen-abstract.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Short and Long-Term Impact of Wildfires on Soil Enzyme Activities of the Northern Boreal Forest",
+      "type": "article",
+      "author": "K. Amberg-Johnson",
+      "publisher": "Lawrence Berkeley National Laboratory SULI program",
+      "releaseDate": "August, 2011",
+      "website": "http://kambergjohnson.github.io/resources/suli-paper.pdf",
       "summary": ""
     }
+
   ],
   "awards": [
     {
