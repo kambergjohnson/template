@@ -19,6 +19,8 @@ theme-essays: theme-essays-builtin-1.html
 theme-bio: theme-bio-builtin-kaj.html
 theme-papers: theme-papers-builtin-1.html
 
+cv-file-name: Amberg_Johnson_Katherine_CV.pdf
+
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
