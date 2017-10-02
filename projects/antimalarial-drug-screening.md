@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bio-x.png
+image: images/Figure-1c-square.png
 title: Antimalarial drug screening and optimization
 permalink: projects/antimalarial-drug-screening
 date: 2015
@@ -19,22 +19,39 @@ Because of the lack of genetic tools to manipulate the apicoplast genome, we scr
 
 ### Actinonin inhibits apicoplast biogenesis in <em>P. falciparum</em>
 
-<div class="ui segment">
-  <img style="padding-bottom: 30px" class="ui image" src="../images/Figure-1a.png">
-  <div class="ui bottom attached label">Structure of actinonin</div>
+<div class="ui segments">
+  <div class="ui segment">
+     <img class="ui large centered image" src="../images/Figure-1a.png">
+  </div>
+  <div class="ui secondary segment">
+   Structure of actinonin
+  </div>
+</div> 
+
+<div class="ui segments">
+  <div class="ui segment">
+     <img class="ui large centered image" src="../images/Figure-1b.png">
+  </div>
+  <div class="ui secondary segment">
+   Time course of parasite growth during actinonin treatment with or without IPP, normalized to control cultures with or without IPP as appropriate. Error bars represent the SEM of two biological replicates.
+  </div>
 </div>
 
-<div class="ui segment">
-  <img style="padding-bottom: 30px" class="ui image" src="../images/Figure-1b.png">
-  <div class="ui bottom attached label">Time course of parasite growth during actinonin treatment with or without IPP, normalized to control cultures with or without IPP as appropriate. Error bars represent the SEM of two biological replicates.</div>
+<div class="ui segments">
+  <div class="ui segment">
+     <img class="ui large centered image" src="../images/Figure-1c.png">
+  </div>
+  <div class="ui secondary segment">
+   Time course of the apicoplast:nuclear genome ratio measured by quantitative PCR (qPCR) using primers for the apicoplast and nuclear genomes during treatment with actinonin and IPP. Genome ratios were normalized to control parasites grown with IPP only. Error bars as in image B. 
+  </div>
 </div>
 
-<div class="ui segment">
-  <img style="padding-bottom: 30px" class="ui image" src="../images/Figure-1c.png">
-  <div class="ui bottom attached label">Time course of the apicoplast:nuclear genome ratio measured by quantitative PCR (qPCR) using primers for the apicoplast and nuclear genomes during treatment with actinonin and IPP. Genome ratios were normalized to control parasites grown with IPP only. Error bars as in image B.  </div>
+<div class="ui segments">
+  <div class="ui segment">
+     <img class="ui large centered image" src="../images/Figure-1d.png">
+  </div>
+  <div class="ui secondary segment">
+   Representative images of the apicoplast of IPP-rescued control and actinonin treated parasites 24 hours after treatment during the schizont stage. The apicoplast is visualized using the P. falciparum reporter strain D10 ACP-GFP in which GFP is targeted to the apicoplast and the nucleus is stained with Hoescht 33342.  During Plasmodium replication, the apicoplast starts as a single small spherical organelle (ring stage) which branches and divides into multiple apicoplasts (schizont stage). A punctate apicoplast that does not branch indicates a defect in apicoplast biogenesis.
+  </div>
 </div>
 
-<div class="ui segment">
-  <img style="padding-bottom: 90px" class="ui image" src="../images/Figure-1d.png">
-  <div  class="ui bottom attached label"> Representative images of the apicoplast of IPP-rescued control and actinonin treated parasites 24 hours after treatment during the schizont stage. The apicoplast is visualized using the P. falciparum reporter strain D10 ACP-GFP in which GFP is targeted to the apicoplast and the nucleus is stained with Hoescht 33342.  During Plasmodium replication, the apicoplast starts as a single small spherical organelle (ring stage) which branches and divides into multiple apicoplasts (schizont stage). A punctate apicoplast that does not branch indicates a defect in apicoplast biogenesis.</div>
-</div>

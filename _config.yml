@@ -17,6 +17,7 @@ theme-home: theme-home-builtin-kaj.html
 theme-projects: theme-projects-builtin-1.html
 theme-essays: theme-essays-builtin-1.html
 theme-bio: theme-bio-builtin-kaj.html
+theme-papers: theme-papers-builtin-1.html
 
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
