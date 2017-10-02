@@ -17,22 +17,24 @@ Apicoplast replication follows a complex sequence of morphological changes as it
 
 Because of the lack of genetic tools to manipulate the apicoplast genome, we screened for chemical inhibitors of apicoplast biogenesis whose targets represent proteins that govern this mysterious process. We identified actinonin, a compound that causes specific loss of the apicoplast. This inhibitor blocks apicoplast development early in the cell cycle as well as subsequent apicoplast replication and segregation. Because apicoplast development is blocked immediately and specifically, actinonin represents a novel class of inhibitors whose mechanism of action will be critical to understanding the unusual mechanism of apicoplast replication. 
 
+### Actinonin inhibits apicoplast biogenesis in <em>P. falciparum</em>
+
 <div class="ui segment">
-  <img style="padding-top: 30px" class="ui image" src="../images/Figure-1a.png">
-  <div class="ui top attached label">Structure of actinonin</div>
+  <img style="padding-bottom: 30px" class="ui image" src="../images/Figure-1a.png">
+  <div class="ui bottom attached label">Structure of actinonin</div>
 </div>
 
 <div class="ui segment">
-  <img style="padding-top: 30px" class="ui image" src="../images/Figure-1b.png">
-  <div class="ui top attached label">Time course of parasite growth during actinonin treatment with or without IPP, normalized to control cultures with or without IPP as appropriate. Error bars represent the SEM of two biological replicates.</div>
+  <img style="padding-bottom: 30px" class="ui image" src="../images/Figure-1b.png">
+  <div class="ui bottom attached label">Time course of parasite growth during actinonin treatment with or without IPP, normalized to control cultures with or without IPP as appropriate. Error bars represent the SEM of two biological replicates.</div>
 </div>
 
 <div class="ui segment">
-  <img style="padding-top: 30px" class="ui image" src="../images/Figure-1c.png">
-  <div class="ui top attached label">Time course of the apicoplast:nuclear genome ratio measured by quantitative PCR (qPCR) using primers for the apicoplast and nuclear genomes during treatment with actinonin and IPP. Genome ratios were normalized to control parasites grown with IPP only. Error bars as in image B.  </div>
+  <img style="padding-bottom: 30px" class="ui image" src="../images/Figure-1c.png">
+  <div class="ui bottom attached label">Time course of the apicoplast:nuclear genome ratio measured by quantitative PCR (qPCR) using primers for the apicoplast and nuclear genomes during treatment with actinonin and IPP. Genome ratios were normalized to control parasites grown with IPP only. Error bars as in image B.  </div>
 </div>
 
 <div class="ui segment">
-  <img style="padding-top: 90px" class="ui image" src="../images/Figure-1d.png">
-  <div  class="ui top attached label"> Representative images of the apicoplast of IPP-rescued control and actinonin treated parasites 24 hours after treatment during the schizont stage. The apicoplast is visualized using the P. falciparum reporter strain D10 ACP-GFP in which GFP is targeted to the apicoplast and the nucleus is stained with Hoescht 33342.  During Plasmodium replication, the apicoplast starts as a single small spherical organelle (ring stage) which branches and divides into multiple apicoplasts (schizont stage). A punctate apicoplast that does not branch indicates a defect in apicoplast biogenesis.</div>
+  <img style="padding-bottom: 90px" class="ui image" src="../images/Figure-1d.png">
+  <div  class="ui bottom attached label"> Representative images of the apicoplast of IPP-rescued control and actinonin treated parasites 24 hours after treatment during the schizont stage. The apicoplast is visualized using the P. falciparum reporter strain D10 ACP-GFP in which GFP is targeted to the apicoplast and the nucleus is stained with Hoescht 33342.  During Plasmodium replication, the apicoplast starts as a single small spherical organelle (ring stage) which branches and divides into multiple apicoplasts (schizont stage). A punctate apicoplast that does not branch indicates a defect in apicoplast biogenesis.</div>
 </div>
