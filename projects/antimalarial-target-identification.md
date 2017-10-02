@@ -19,25 +19,41 @@ Lastly, we validated FtsH1 as the target of actinonin in P. falciparum. Using a 
 
 ### A mutation in the protease domain of ftsH1 is sufficient to confer resistance to actinonin in <em>T. gondii</em>
 
-<div class="ui segment">
-  <img style="padding-bottom: 60px" class="ui image" src="../images/Figure-2a.png">
-  <div class="ui bottom attached large label">Representative images of the apicoplast of control and actinonin treated parasites 36 hours after infection. The apicoplast is visualized using the T. gondii reporter strain RH FNR-RFP in which RFP is targeted to the apicoplast and the nucleus is stained with Hoescht 33342. Each parasite contains one apicoplast, except during cell division when there may be two. White arrows point at examples of T. gondii parasites missing an apicoplast.</div>
-</div>
-
-<div class="ui segment">
-  <img style="padding-bottom: 100px" class="ui image" src="../images/Figure-2b.png">
-  <div class="ui bottom attached large label">Dose-dependent parasite growth inhibition upon treatment with actinonin for the actinonin-sensitive parent strain (RH) compared with 3 independent clones following selection for actinonin resistance (resistant 1, resistant 2, resistant 3). These three resistant clones are representative of the eight clones submitted for whole genome sequencing. Growth was measured via summed areas of the plaques formed during plaque assays and normalized to untreated controls. Error bars represent the SEM of two biological replicates.</div>
-</div>
-
-<div class="ui segment">
-  <img style="padding-bottom: 60px" class="ui image" src="../images/Figure-2c.png">
-  <div class="ui bottom attached large label">Dose-dependent parasite growth inhibition upon treatment with actinonin for ftsH1WT compared with ftsH1(N805S) parasites in RH Δku80 strain. Data was measured and analyzed as in B. </div>
-</div>
-
-<div class="ui segment">
-  <img style="padding-bottom: 120px" class="ui image" src="../images/Figure-2d.png">
-  <div  class="ui bottom attached large label"> Schematic of TgFtsH1. This protein contains a N-unique region containing a putative transmembrane domain, an AAA ATPase domain used for unfolding proteins, a peptidase domain with a zinc co-factor in the catalytic site, and a C-unique region. The resistance-conferring variant FtsH(N805S) is found in the peptidase domain near the catalytic site. </div>
-</div>
+<div class="ui segments">
+  <div class="ui segment">
+    <img class="ui image" src="../images/Figure-2a.png">
+  </div>
+  <div class="ui secondary segment">
+  Representative images of the apicoplast of control and actinonin treated parasites 36 hours after infection. The apicoplast is visualized using the T. gondii reporter strain RH FNR-RFP in which RFP is targeted to the apicoplast and the nucleus is stained with Hoescht 33342. Each parasite contains one apicoplast, except during cell division when there may be two. White arrows point at examples of T. gondii parasites missing an apicoplast.
+  </div>
+</div>  
+  
+<div class="ui segments">
+  <div class="ui segment">
+    <img class="ui large image" src="../images/Figure-2b.png">
+  </div>
+  <div class="ui secondary segment">
+  Dose-dependent parasite growth inhibition upon treatment with actinonin for the actinonin-sensitive parent strain (RH) compared with 3 independent clones following selection for actinonin resistance (resistant 1, resistant 2, resistant 3). These three resistant clones are representative of the eight clones submitted for whole genome sequencing. Growth was measured via summed areas of the plaques formed during plaque assays and normalized to untreated controls. Error bars represent the SEM of two biological replicates.
+  </div>
+</div> 
+   
+<div class="ui segments">
+  <div class="ui segment">
+    <img class="ui large image" src="../images/Figure-2c.png">
+  </div>
+  <div class="ui secondary segment">
+  Dose-dependent parasite growth inhibition upon treatment with actinonin for ftsH1WT compared with ftsH1(N805S) parasites in RH Δku80 strain. Data was measured and analyzed as in B.
+  </div>
+</div>  
+     
+<div class="ui segments">
+  <div class="ui segment">
+     <img class="ui large image" src="../images/Figure-2d.png">
+  </div>
+  <div class="ui secondary segment">
+  Schematic of TgFtsH1. This protein contains a N-unique region containing a putative transmembrane domain, an AAA ATPase domain used for unfolding proteins, a peptidase domain with a zinc co-factor in the catalytic site, and a C-unique region. The resistance-conferring variant FtsH(N805S) is found in the peptidase domain near the catalytic site.
+  </div>
+</div>  
 
 ### Knockdown of ftsH1 in <em>P. falciparum</em> leads to apicoplast loss and hypersensitivity to actinonin
 
