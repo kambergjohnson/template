@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
+published: false
 image: images/apicoplast.png
-title: Characterization of Apicoplast Biogenesis Inhibitors
+title: Comparative characterization of Apicoplast Biogenesis Inhibitors
 permalink: projects/apicoplast-biogenesis-inhibitors
 date: 2017
 labels:
+  - Toxoplasma gondii
   - Apicoplast
-  - Biogenesis inhibitors
 summary: Investigation into the mechanisms by which apicoplast biogenesis inhibitors relate to parasite death
 ---
 

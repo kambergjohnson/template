@@ -7,7 +7,9 @@ permalink: projects/antimalarial-drug-screening
 date: 2015
 labels:
   - Plasmodium falciparum
-  - Chemical inhibition
+  - Phenotypic drug assay
+  - Drug screening
+  - Structure-activity relationship
 summary: A cell-based screen to identify small molecules that inhibited Plasmodium falciparum plastid organelle biogenesis.
 ---
 

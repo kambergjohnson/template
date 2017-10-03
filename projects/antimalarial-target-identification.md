@@ -2,12 +2,16 @@
 layout: project
 type: project
 image: images/target-identification-2-square.jpg
-title: Antimalarial novel drug target identification
+title: Novel antimalarial drug target identification
 permalink: projects/antimalaria-target-identification
 date: 2016
 labels:
+  - Resistance selection
+  - Next-generation sequencing
   - Toxoplasma gondii
-  - Target identification
+  - Plasmodium falciparum
+  - CRISRP/Cas9 genome editing
+  - Inducible gene expression
 summary: To identify the molecular target of actinonin, we selected resistant mutants in Toxoplasma gondii that could survive high amounts of drug.
 ---
 
