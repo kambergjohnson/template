@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/suli-internship-square.png
 title: Vacation Contamination: prediction beach water pollution 
-permalink: projects/suli-internship
+permalink: projects/insight
 date: 2018
 labels:
   - data science
