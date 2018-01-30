@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: images/suli-internship-square.png
-title: Effects of wildfires on soil enzyme activities
+title: Vacation Contamination: prediction beach water pollution 
 permalink: projects/suli-internship
-date: 2011
+date: 2018
 labels:
-  - soil microbes
-  - Alaskan wildfires
+  - data science
+  - machine learning
 summary: Research on enzymes involved in degradation of plant material in soils affected by Alaskan wildfires.
 ---
 
