@@ -23,7 +23,7 @@ Automated prediction of beach contamination could not only lessen and streamline
 
 To build a model of bacterial contamination in beach water, I first needed to determine when and where contamination has happened in the past. I scraped the Hawaii Department of Health website for data including bacteria levels, water turbiditiy, and salinity measures from 2004-2017 on Oahu, Hawaii’s most populous island. To get a feel of the data, I first created a tableau visualization of bacterial contamination around Oahu. Each dot represents a site that was sampled for that given week, with green representing low and red representing high levels of bacteria.
 
-<div id="tableauViz2"></div>
+<div id="tableauViz"></div>
 
  From this visualization, a few things become apparent about this data. 
 1.	Contamination is rare.
@@ -32,7 +32,7 @@ To build a model of bacterial contamination in beach water, I first needed to de
 
 Furthermore, by visualizing levels of bacteria over time at each site individually, I noticed blooms of bacterial growth over several orders of magnitude. Below, you can see a plot of bacterial levels over time for individual locations.
 
-<div id="tableauViz"></div>
+<div id="tableauViz2"></div>
 
 According to the Department of Health, beach water is unsafe when bacterial levels exceed 130 colonies/100mL of water. Since my goal was to provide predictions about beach water safety, I categorized each sample into two classes depending on whether bacterial levels exceeded the safety threshold. 
 1.	Class 0: Safe (levels <130c/100mL)
