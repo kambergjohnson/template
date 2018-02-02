@@ -56,7 +56,7 @@ To compensate for class imbalance, I undersampled from my training set to balanc
      <img class="ui large centered image" src="../images/undersampling.png">
   </div>
   <div class="ui secondary segment">
-   Schematic of Undersampling
+   Schematic of Undersampling, inspired from [here](https://mangarella.github.io/BreatheFree/)
   </div>
 </div>  
 
