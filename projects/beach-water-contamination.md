@@ -80,7 +80,7 @@ To compensate for class imbalance, I undersampled from my training set to balanc
      <img class="ui large centered image" src="../images/Figure-1a.png">
   </div>
   <div class="ui secondary segment">
-   Schematic of undersampling
+   Schematic of Undersampling
   </div>
 </div>  
 
@@ -107,7 +107,7 @@ Looking more closely with a confusion matrix, I can really start to evaluate the
      <img class="ui large centered image" src="../images/fig_confusion.png">
   </div>
   <div class="ui secondary segment">
-   Schematic of confusion matrix
+   Confusion matrix
   </div>
 </div> 
 
@@ -118,7 +118,7 @@ Not surprisingly, the top features are the direct measures of the water, the wat
      <img class="ui large centered image" src="../images/fig_featureimportance.png">
   </div>
   <div class="ui secondary segment">
-   Schematic of feature importance
+   Feature Importance
   </div>
 </div> 
 
