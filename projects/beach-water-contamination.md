@@ -115,7 +115,7 @@ Not surprisingly, the top features are the direct measures of the water, the wat
 
 <div class="ui segments">
   <div class="ui segment">
-     <img class="ui large centered image" src="../images/Figure-1a.png">
+     <img class="ui large centered image" src="../images/fig_featureimportance.png">
   </div>
   <div class="ui secondary segment">
    Schematic of feature importance
