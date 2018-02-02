@@ -109,3 +109,9 @@ Since these hazardous bacteria are naturally found in human and animal excrement
 #### Model at Large 
 
 While this data was trained and tested specifically on Hawaii beach water data, I am interested in how this model could be transferred to other locations. In this case, the feature importance may change. For example, the time of year could become more important, depending on the seasonality of the location, and the time delay between predictive rain and sampling could change, depending on the geography.  
+
+<div class="ui secondary segment">
+<p>
+This project was developed as part of my participation in the <a href="http://insightdatascience.com/">Insight Data Science Fellows Program</a>. Many thanks to my fellow Fellows for their insights and help in the development of this project.
+</p>
+</div>
