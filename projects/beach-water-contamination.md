@@ -60,15 +60,6 @@ After converting the bacterial levels in two categories, I could begin to collec
 
 One feature that I specifically choose not to include was location. The Department of Health currently triages its sampling load based off of location alone. In order to insure that my solution was providing additional value, I omitted this information from my model. 
 
-<div class="ui segments">
-  <div class="ui segment">
-     <img class="ui large centered image" src="../images/fig_featureimportance.png">
-  </div>
-  <div class="ui secondary segment">
-   Feature engineering
-  </div>
-</div>  
-
 ##  Modeling with Imbalanced Data
 
 The next challenge I needed to address before training my model was the imbalance between my two classes in the data. Thankfully, only 2% of the samples collected by the Department of Health contained hazardous levels of bacteria. This makes model training more difficult because simply guessing that the water is never contaminated gives you a very high accuracy. As expected, when I trained models on raw imbalanced training sets, the algorithm learned to predict the majority class (safe) almost every time and almost never identified hazardous samples. 
@@ -77,7 +68,7 @@ To compensate for class imbalance, I undersampled from my training set to balanc
 
 <div class="ui segments">
   <div class="ui segment">
-     <img class="ui large centered image" src="../images/Figure-1a.png">
+     <img class="ui large centered image" src="../images/undersampling.png">
   </div>
   <div class="ui secondary segment">
    Schematic of Undersampling
