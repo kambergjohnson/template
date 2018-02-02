@@ -23,15 +23,7 @@ Automated prediction of beach contamination could not only lessen and streamline
 
 To build a model of bacterial contamination in beach water, I first needed to determine when and where contamination has happened in the past. I scraped the Hawaii Department of Health website for data including bacteria levels, water turbiditiy, and salinity measures from 2004-2017 on Oahu, Hawaii’s most populous island. To get a feel of the data, I first created a tableau visualization of bacterial contamination around Oahu. Each dot represents a site that was sampled for that given week, with green representing low and red representing high levels of bacteria.
 
-<div class="ui segments">
-  <div class="ui segment">
-     <img class="ui large centered image" src="../images/Figure-1a.png">
-  </div>
-  <div class="ui secondary segment">
-   Tableau visualization of bacterial contamination
-  </div>
-</div>  
-
+<div id="tableauViz2"></div>
 
  From this visualization, a few things become apparent about this data. 
 1.	Contamination is rare.
@@ -40,7 +32,7 @@ To build a model of bacterial contamination in beach water, I first needed to de
 
 Furthermore, by visualizing levels of bacteria over time at each site individually, I noticed blooms of bacterial growth over several orders of magnitude. Below, you can see a plot of bacterial levels over time for individual locations.
 
-<div class='tableauPlaceholder' id='viz1517599489685' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;wa&#47;waterqualityline&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='views&#47;waterqualityline&#47;Dashboard2?:embed=y&amp;:display_count=y' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;wa&#47;waterqualityline&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1517599489685');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='800px';vizElement.style.height='627px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script> 
+<div id="tableauViz"></div>
 
 According to the Department of Health, beach water is unsafe when bacterial levels exceed 130 colonies/100mL of water. Since my goal was to provide predictions about beach water safety, I categorized each sample into two classes depending on whether bacterial levels exceeded the safety threshold. 
 1.	Class 0: Safe (levels <130c/100mL)

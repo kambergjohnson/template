@@ -3,3 +3,22 @@
 <script>
   $('.ui.embed').embed();
 </script>
+
+
+<script>
+  function initializeViz(element, url) {
+    // JS object that points at empty div in the html
+    var placeholderDiv = document.getElementById(element);
+    if (placeholderDiv) {
+      var options = {
+        width: '850px',
+        height: '700px',
+        hideTabs: true,
+        hideToolbar: true,
+      };
+      viz = new tableau.Viz(placeholderDiv, url, options);
+    }
+  }
+  initializeViz("tableauViz", "https://public.tableau.com/views/waterqualityline/Dashboard2?:embed=y&:display_count=yes");
+  initializeViz("tableauViz2", "https://public.tableau.com/views/waterqualitymap4/Dashboard1?:embed=y&:display_count=yes&publish=yes");
+</script>
