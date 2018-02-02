@@ -62,7 +62,7 @@ One feature that I specifically choose not to include was location. The Departme
 
 <div class="ui segments">
   <div class="ui segment">
-     <img class="ui large centered image" src="../images/Figure-1a.png">
+     <img class="ui large centered image" src="../images/fig_featureimportance.png">
   </div>
   <div class="ui secondary segment">
    Feature engineering
@@ -91,7 +91,7 @@ To compensate for class imbalance, I undersampled from my training set to balanc
 
 <div class="ui segments">
   <div class="ui segment">
-     <img class="ui large centered image" src="../images/Figure-1a.png">
+     <img class="ui large centered image" src="../images/fig_compare.png">
   </div>
   <div class="ui secondary segment">
    Algorithm comparisons
@@ -104,7 +104,7 @@ Looking more closely with a confusion matrix, I can really start to evaluate the
 
 <div class="ui segments">
   <div class="ui segment">
-     <img class="ui large centered image" src="../images/Figure-1a.png">
+     <img class="ui large centered image" src="../images/fig_confusion.png">
   </div>
   <div class="ui secondary segment">
    Schematic of confusion matrix
