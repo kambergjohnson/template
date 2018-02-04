@@ -21,7 +21,7 @@ Automated prediction of beach contamination could not only lessen and streamline
 
 ## The Data: Bacteria + Climate
 
-To build a model of bacterial contamination in beach water, I first needed to determine when and where contamination has happened in the past. I scraped the Hawaii Department of Health website for data including bacteria levels, water turbiditiy, and salinity measures from 2004-2017 on Oahu, Hawaii’s most populous island. To get a feel of the data, I first created a tableau visualization of bacterial contamination around Oahu. Each dot represents a site that was sampled for that given week, with green representing low and red representing high levels of bacteria.
+To build a model of bacterial contamination in beach water, I first needed to determine when and where contamination has happened in the past. I scraped the Hawaii Department of Health website for data including bacteria levels, water turbiditiy, and salinity measures from 2004-2017 on Oahu, Hawaii’s most populous island. To get a feel of the data, I first created a tableau visualization of bacterial contamination around Oahu. Each dot represents a site that was sampled for that given week, with green representing low and red representing high levels of bacteria. Toggle through the weeks using the slider bar to visualize bacterial levels. 
 
 <div id="tableauViz"></div>
 
@@ -30,7 +30,7 @@ To build a model of bacterial contamination in beach water, I first needed to de
 2.	Locations are very sparsely and unevenly sampled. 
 3.	Contamination is geographically constrained and does not appear to spread. 
 
-Furthermore, by visualizing levels of bacteria over time at each site individually, I noticed blooms of bacterial growth over several orders of magnitude. Below, you can see a plot of bacterial levels over time for individual locations.
+Furthermore, by visualizing levels of bacteria over time at each site individually, I noticed blooms of bacterial growth over several orders of magnitude. Below, you can see a plot of bacterial levels over time for individual locations. Use the slider bar or the drop-down menu to see how bacterial levels and sampling frequency changes with location. 
 
 <div id="tableauViz2"></div>
 
