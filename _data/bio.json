@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Katherine Amberg-Johnson",
-    "label": "Ph.D Student, Stanford University",
+    "label": "Scientist, Inzen Therapeutics",
     "picture": "https://kambergjohnson.github.io/images/kambergjohnson.square.jpeg",
     "email": "katieambergjohnson@gmail.com",
     "phone": "1-808-428-9703",
     "website": "https://kambergjohnson.com",
-    "summary": "I am a highly motivated cell/chemical biologist with extensive experience in drug target discovery. As one of the first students in a newly-formed lab, I thrive in a fast-paced and collaborative team environment. I am seeking a research science position within a cutting-edge biotechnology company where my intellectual curiosity, technical training, and hard work will have a positive impact on human health.",
+    "summary": "I am a biologist interested in developing therapeutics that improve human health. /n/n My scientific career started as an undergraduate at UC Berkeley (go bears), where I completed an honors undergraduate thesis in David Wemmer's lab. I performed single-molecule optical tweezers experiments and NMR to study the force-depended molecular mechanisms of the unusual bacterial transcription factor, sigma54. As a young scientist, I became hooked on the endless and diverse ways in which cells sense and regulate themselves and their environment. /n/n After graduation, I started a PhD in Microbiology and Immunology in Ellen Yeh's lab at Stanford University. There I focused on identifying novel antimalarials that target the malaria parasite's unusual and mysterious apicoplast organelle. This opportunity merged my desires to study noncanonical biology and identify new drugs and drug targets against the quickly evolving malaria parasite. Towards the end of graduate school, I interned at Insight Data Science to further develop my computational skills. There I worked on developing algorithms to predict bacterial contamination in ocean water. As someone who grew up in Hawaii, this topic was close to my heart. /n/n After defending, I moved to New York City where I am among the first hires at Inzen Therapeutics, a startup biotech focused on developing drugs that manipulate cell death. Cell death occurs continually in the human body as a result of both normal and diseased states and leads to the release of specific biomolecules, many of which may signal to their surrounding environment. Cell signaling is poorly understood and rich source of drug targets. At Inzen, we are uncovering these novel signaling factors released by dying and stressed cells and leveraging them to cure and treat disease. ",
     "location": {
       "address": "",
-      "postalCode": "94122",
-      "city": "San Francisco",
+      "postalCode": "10003",
+      "city": "New York",
       "countryCode": "USA",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
