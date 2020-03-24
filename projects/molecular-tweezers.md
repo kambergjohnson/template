@@ -1,17 +1,10 @@
 ---
 layout: project
-type: project
-image: images/molecular-tweezers.png
-title: Use of Molecular Tweezers to Study the Effect of Applied Force on σ54 Core-Binding Domain
-permalink: projects/molecular-tweezers
-date: 2012
-labels:
-  - σ54 transcription initiation
-  - molecular tweezers
-summary: I performed a molecular tweezers experiment on the transcription initiation protein, σ54, to determine the number of unfolding events.
 ---
 
-<img class="ui image" src="../images/molecular-tweezers-2.png">
+# Use of Molecular Tweezers to Study the Effect of Applied Force on σ54 Core-Binding Domain
+
+<img class="image fit" src="/images/molecular-tweezers-2.png">
 
 During the 2011-2012 school year, I wrote my honors undergraduate thesis in Professor Dave Wemmer’s Laboratory at University of California, Berkeley. I performed a molecular tweezers experiment on the transcription initiation protein, σ54, to determine the number of unfolding events in an attempt to better understand the mechanism behind σ54 transcription initiation.
 
@@ -21,7 +14,7 @@ Currently, it is unclear whether activation works through a single bind-and-rele
 
 We found that approximately 20% of the core-binding domain of σ54 unfolds before the rest of the domain during force-extension cycles with the molecular tweezers. This was surprising because the two subdomains of σ54 are each around 50% of the domain. Our data suggests that a portion of one of the subdomains is unfolding before the rest. This uncooperative unfolding could be important to the mechanism of σ54 transcription initiation. We are truncating a portion of the domain that is likely to account for this 20% and repeating our molecular tweezers experiment to determine the specific portion of the domain that unfolds before the rest.
 
-For more information on this project, here are links to my [poster](../resources/thesis-poster.pdf) and to my [paper](../resources/thesis.pdf).
+For more information on this project, here are links to my [poster](/resources/thesis-poster.pdf) and to my [undergraduate honors thesis](/resources/amberg-johnson-undergrad-honors-thesis.pdf).
 
 1. Wedel, A., Kustu, S. (1995). The bacterial enhancer-binding protein NTRC is a molecular machine: ATP hydrolysis is coupled to transcriptional activation. Genes Dev. 9, 2042-2052.
 

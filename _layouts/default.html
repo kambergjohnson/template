@@ -1,12 +1,46 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+	Miniport by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
+<head>
+  <title>Katie Amberg-Johnson</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="/assets/css/main.css" />
+</head>
+<body class="is-preload">
 
-  {% include head.html %}
+{{ content }}
 
-  <body>
-    {{ content }}
-    {% include footer.html %}
+<!-- Scripts -->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/jquery.scrolly.min.js"></script>
+<script src="/assets/js/browser.min.js"></script>
+<script src="/assets/js/breakpoints.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/main.js"></script>
 
-  </body>
+<!-- Load Tableau visualization code for the beach contamination page -->
+<script src="https://public.tableau.com/javascripts/api/tableau-2.2.1.js"></script>
 
+<script>
+  function initializeViz(element, url) {
+    // JS object that points at empty div in the html
+    var placeholderDiv = document.getElementById(element);
+    if (placeholderDiv) {
+      var options = {
+        hideTabs: true,
+        hideToolbar: true,
+      };
+      viz = new tableau.Viz(placeholderDiv, url, options);
+    }
+  }
+  initializeViz("tableauViz", "https://public.tableau.com/views/waterqualitymap4/Dashboard1?:embed=y&:display_count=yes&publish=yes");
+  initializeViz("tableauViz2", "https://public.tableau.com/views/waterqualityline/Dashboard2?:embed=y&:display_count=yes");
+</script>
+
+</body>
 </html>

@@ -1,27 +1,53 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# REQUIRED CHANGES
-# Edit next line, providing your own name.
-title: Katherine Amberg-Johnson | Professional Portfolio
-# Edit next line, replacing 'techfolios' with your github username
-url: "https://kambergjohnson.github.io"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ""
+title: Katie Amberg-Johnson
+email: katieambergjohnson@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Professional Portfolio
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: kambergjohnson
+github_username:  kambergjohnson
 
-# OPTIONAL CHANGES
-# You might want to change the bio page label to something else, such as CV
-bio-page-label: CV
-# You might want to change the theme associated with one or more sections of the site.
-# Defining your own custom theme variations is easy. See the documentation.
-theme-home: theme-home-builtin-kaj.html
-theme-projects: theme-projects-builtin-1.html
-theme-essays: theme-essays-builtin-1.html
-theme-bio: theme-bio-builtin-kaj.html
-theme-papers: theme-papers-builtin-1.html
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
-cv-file-name: Amberg_Johnson_Katherine_CV.pdf
-
-# YOU NORMALLY NEVER CHANGE THE FOLLOWING
-markdown: kramdown
-include: [_data]
-
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
